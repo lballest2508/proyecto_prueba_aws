@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.height{
+    height: 145px;
+}
+.supText{
+    font-size: 14px;
+    position: relative;
+    top: -14px;
+    color: red;
+}
