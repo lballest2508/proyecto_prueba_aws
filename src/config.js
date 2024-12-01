@@ -4,7 +4,7 @@ import { PATH_DASHBOARD } from '../src/routes/paths';
 // API
 // ----------------------------------------------------------------------
 
-export const HOST_API_KEY = 'http://localhost:5173';
+export const HOST_API_KEY = 'http://localhost:3000';
 
 export const FIREBASE_API = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
